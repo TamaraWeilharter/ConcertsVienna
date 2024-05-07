@@ -1,0 +1,8 @@
+requests
+bs4
+pandas
+beautifulsoup4
+matplotlib
+psycopg2
+tqdm
+colorama
